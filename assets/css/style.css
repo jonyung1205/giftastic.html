@@ -1,0 +1,23 @@
+body {
+	background-image: url("../images/music_background.jpg");
+    font-family: 'Rock Salt', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+button,
+div,
+form,
+input {
+  margin: 20px;
+}
+
+
+
+
+
